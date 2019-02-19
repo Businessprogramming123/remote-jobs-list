@@ -167,6 +167,7 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 
 || Site |   Details | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
+| ❇️ | [digitalminds.io](https://digitalminds.io) | Freelance gigs in all sectors. | 300 |💻|
 | ❇️ | [Fiverr](https://www.fiverr.com/) | Freelance gigs in all sectors. | 400 |🌟|
 | ❇️ | [Upwork](https://www.upwork.com/) | Freelance jobs in all sectors. | 500 |🌟|
 | ❇️ | [Freelancer](https://www.freelancer.com/) | Freelance jobs in all sectors. | 2000 |🌟|
@@ -183,4 +184,5 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [Speedlancer](https://speedlancer.com/) | Designers & Developers. | 600,000 |🌟|
 | ❇️ | [Moonlight](https://www.moonlightwork.com/) | Designers & Developers. | 800,000 |🌟|
 | ❇️ | [Soshace](https://soshace.com) | React/Angular/Vue/Python/Java developers. | 2,000,000 |💻|
+
 
